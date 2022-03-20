@@ -2,7 +2,7 @@
 #include <string>
 #include <windows.h>
 using namespace std;
-//Проверка правок github
+
 void encrypt() {
 	int n, m; //Длина и высота блока шифрования
 	cout << "Введите размеры блока шифрования (длина и высота через пробел): ";
